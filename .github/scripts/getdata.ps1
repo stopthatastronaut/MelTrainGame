@@ -6,3 +6,11 @@ $linesendpoint = "https://opendata.transport.vic.gov.au/dataset/6d36dfd9-8693-45
 
 Invoke-WebRequest -Uri $stopsendpoint -OutFile ./../../site/data/stops.json
 Invoke-WebRequest -Uri $linesendpoint -OutFile ./../../site/data/lines.json
+
+Compress-Archive -Path ./../../site/data/stops.json `
+        -DestinationPath ./../../site/data/stops.json.zip
+Compress-Archive -Path ./../../site/data/lines.json `
+        -DestinationPath ./../../site/data/lines.json.zip  
+
+Remove-Item ./../../site/data/lines.json
+Remove-Item ./../../site/data/stops.json

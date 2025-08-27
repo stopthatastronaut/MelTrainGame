@@ -8,3 +8,4 @@ Well, that one question, anyway.
 
 Scrapes data from the [PTV Timetable API](https://timetableapi.ptv.vic.gov.au/swagger/ui/index) in the CI pipeline. The game itself is in AlpineJS
 
+Maps are displayed using [OpenLayers](https://openlayers.org/)

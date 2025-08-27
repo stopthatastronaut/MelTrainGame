@@ -1,1 +1,5 @@
 .DS-Store
+
+# Do not load huge files
+site/data/lines.json
+site/data/stops.json
