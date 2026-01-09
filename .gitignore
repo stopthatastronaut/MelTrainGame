@@ -6,3 +6,5 @@ site/data/stops.json
 
 site/data/.temp/
 .scratch
+.jekyll-cache
+_site
