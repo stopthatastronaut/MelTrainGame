@@ -2,9 +2,10 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
+    <title>On Which Melbourne Metro Train Line Would You Find...</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script type="text/javascript" src="/assets/js/game.js" defer></script>
+    <script type="text/javascript" src="{{ '/assets/js/game.js?v=' | append: site.github.build_revision | relative_url }}" defer></script>
     <script type="text/javascript" src="//unpkg.com/alpinejs" defer></script> 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
@@ -14,8 +15,13 @@
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a> | <a  class="btn btn-github" href="https://aus.social/@drunkenmadman">Created by @drunkenmadman</a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2> | 
+          <a class="btn btn-github" 
+              href="{{ site.github.repository_url }}"><span class="icon"></span>View on GitHub</a> | 
+          <a class="btn btn-github" 
+              href="https://aus.social/@drunkenmadman">Created by @drunkenmadman</a> | 
+          <a class="btn btn-github" 
+              href="https://www.hardroadbrewing.com/">Thursday Trivia at Hard Road</a> |
         </section>
       </div>
     </header>
