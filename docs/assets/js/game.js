@@ -54,12 +54,14 @@ function check_the_answer(num) {
 
   if(trying_to_guess.lines.includes(user_chose)) {
     Alpine.store('game_data').outcome = "You chose right!\n\n" + trying_to_guess.name + " IS on the " + user_chose + " line";
+    Alpine.store('game_data').session_score.correct++
   } else {
     Alpine.store('game_data').outcome = "No! you chose wrong. " + trying_to_guess.name + " is NOT on the " + 
           user_chose + " line.\n\n" +
           "However it IS on the following lines: \n\n" +
           trying_to_guess.lines.join(", \n\n")
           ;
+    Alpine.store('game_data').session_score.incorrect++
   }
   // now set station_to_guess back to blank and offer another game
   Alpine.store('game_data').station_to_guess = "";
@@ -79,6 +81,7 @@ function load_the_data() {
     choice_2: "",
     choice_3: "",
     outcome: "",
+    session_score: {correct: 0, incorrect: 0},
     play_text: "Ready to play?",
     fetchStations() {
       this.isLoading = true;

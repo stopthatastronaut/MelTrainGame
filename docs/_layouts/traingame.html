@@ -15,7 +15,7 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a> | <a  class="btn btn-github" href="https://aus.social/@drunkenmadman">Created by @drunkenmadman</a>
         </section>
       </div>
     </header>
@@ -35,6 +35,12 @@
             <button @click="check_the_answer(3)" x-text="choice_3" ></button>
           </div>
           <div id="result" x-show="outcome != ''" x-text="outcome">
+          </div>
+          <div>&nbsp;</div>
+          <div id="session_scores" style="font-size: smaller; color: gray">
+            Your scores for this session: 
+            Correct - <span x-text="session_score.correct"></span> 
+            Incorrect - <span x-text="session_score.incorrect"></span>
           </div>
         </div>
       </section>
