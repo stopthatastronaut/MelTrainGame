@@ -302,6 +302,35 @@
     "status": "current",
     "notes": null
   },
+  {
+    "name": "Berwick",
+    "lines": [
+      "Pakenham",
+      "Traralgon"
+    ],
+    "distance_from_southern_cross_km": 44.58,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1877-10-08",
+    "suburb": "Berwick",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Bittern",
+    "lines": [
+      "Stony Point"
+    ],
+    "distance_from_southern_cross_km": 68.67,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1889-09-17",
+    "suburb": "Bittern",
+    "status": "current",
+    "notes": null
+  },
   // verified above
 
 
