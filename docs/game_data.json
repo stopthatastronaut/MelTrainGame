@@ -1358,7 +1358,7 @@
     ],
     "date_opened": "2025-11-30",
     "suburb": "Melbourne CBD",
-    "status": "future",
+    "status": "current",
     "notes": "Metro Tunnel station"
   },
   {
@@ -1366,14 +1366,14 @@
     "lines": [
       "Stony Point"
     ],
-    "distance_from_southern_cross_km": 61.0,
+    "distance_from_southern_cross_km": 74.59,
     "zones": [
       "Zone 2"
     ],
-    "date_opened": "1889-09-10",
-    "suburb": "Stony Point",
+    "date_opened": "1889-12-17",
+    "suburb": "Crib Point",
     "status": "current",
-    "notes": "Diesel service"
+    "notes": null
   },
   {
     "name": "Strathmore",
@@ -1404,6 +1404,11 @@
     "status": "current",
     "notes": "Major interchange"
   },
+
+
+
+
+
   {
     "name": "Tottenham",
     "lines": [
@@ -1434,6 +1439,28 @@
     "status": "future",
     "notes": "Metro Tunnel station"
   },
+
+
+
+
+
+
+    {
+    "name": "Union",
+    "lines": [
+      "Belgrave",
+      "Lilydale"
+    ],
+    "distance_from_southern_cross_km": 14.14,
+    "zones": [
+      "Zone 1",
+      "Zone 2"
+    ],
+    "date_opened": "2023-05-22",
+    "suburb": "Mont Albert",
+    "status": "current",
+    "notes": "A merge between Surrey Hills and Mont Albert Stations"
+  },
   {
     "name": "Upfield",
     "lines": [
@@ -1444,17 +1471,57 @@
       "Zone 2"
     ],
     "date_opened": "1889-10-08",
-    "suburb": "Upfield",
+    "suburb": "Campbellfield",
     "status": "current",
-    "notes": null
+    "notes": "Formerly North Campbellfield Station"
   },
 
 
 
 
-
-
-
+  {
+    "name": "Upper Ferntree Gully",
+    "lines": [
+      "Belgrave"
+    ],
+    "distance_from_southern_cross_km": 37.66,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1889-12-04",
+    "suburb": "Upper Ferntree Gully",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Upwey",
+    "lines": [
+      "Belgrave"
+    ],
+    "distance_from_southern_cross_km": 40.18,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1901-06-03",
+    "suburb": "Upwey",
+    "status": "current",
+    "notes": "Originally a narrow gauge line"
+  },
+  {
+    "name": "Victoria Park",
+    "lines": [
+      "Hurstbridge",
+      "Mernda"
+    ],
+    "distance_from_southern_cross_km": 5.42,
+    "zones": [
+      "Zone 1"
+    ],
+    "date_opened": "1888-05-08",
+    "suburb": "Abbotsford",
+    "status": "current",
+    "notes": "Formerly Collingwood"
+  },
    {
     "name": "Watergardens",
     "lines": [
