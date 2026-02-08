@@ -1,0 +1,963 @@
+{
+  "stations": [
+    {
+      "name": "Flinders Street",
+      "lines": [
+        "Alamein",
+        "Belgrave",
+        "Craigieburn",
+        "Cranbourne",
+        "Frankston",
+        "Glen Waverley",
+        "Hurstbridge",
+        "Lilydale",
+        "Mernda",
+        "Pakenham",
+        "Sandringham",
+        "Sunbury",
+        "Upfield",
+        "Werribee",
+        "Williamstown"
+      ],
+      "distance_from_southern_cross_km": 0.0,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1854-09-12",
+      "suburb": "Melbourne",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Southern Cross",
+      "lines": [
+        "Alamein",
+        "Belgrave",
+        "Craigieburn",
+        "Cranbourne",
+        "Frankston",
+        "Glen Waverley",
+        "Hurstbridge",
+        "Lilydale",
+        "Mernda",
+        "Pakenham",
+        "Sunbury",
+        "Upfield",
+        "Werribee",
+        "Williamstown"
+      ],
+      "distance_from_southern_cross_km": 0.0,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1859-01-17",
+      "suburb": "Docklands",
+      "status": "current",
+      "notes": "Formerly Spencer Street"
+    },
+    {
+      "name": "Parliament",
+      "lines": [
+        "Alamein",
+        "Belgrave",
+        "Craigieburn",
+        "Cranbourne",
+        "Frankston",
+        "Glen Waverley",
+        "Hurstbridge",
+        "Lilydale",
+        "Mernda",
+        "Pakenham",
+        "Sunbury",
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 1.8,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1983-01-24",
+      "suburb": "East Melbourne",
+      "status": "current",
+      "notes": "City Loop underground station"
+    },
+    {
+      "name": "Melbourne Central",
+      "lines": [
+        "Alamein",
+        "Belgrave",
+        "Craigieburn",
+        "Cranbourne",
+        "Frankston",
+        "Glen Waverley",
+        "Hurstbridge",
+        "Lilydale",
+        "Mernda",
+        "Pakenham",
+        "Sunbury",
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 1.3,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1981-01-26",
+      "suburb": "Melbourne",
+      "status": "current",
+      "notes": "City Loop underground station"
+    },
+    {
+      "name": "Flagstaff",
+      "lines": [
+        "Alamein",
+        "Belgrave",
+        "Craigieburn",
+        "Cranbourne",
+        "Frankston",
+        "Glen Waverley",
+        "Hurstbridge",
+        "Lilydale",
+        "Mernda",
+        "Pakenham",
+        "Sunbury",
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 0.9,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1985-05-27",
+      "suburb": "West Melbourne",
+      "status": "current",
+      "notes": "City Loop underground station"
+    },
+    {
+      "name": "Richmond",
+      "lines": [
+        "Alamein",
+        "Belgrave",
+        "Craigieburn",
+        "Cranbourne",
+        "Frankston",
+        "Glen Waverley",
+        "Hurstbridge",
+        "Lilydale",
+        "Mernda",
+        "Pakenham",
+        "Sandringham",
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": 2.6,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1859-09-12",
+      "suburb": "Richmond",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "North Melbourne",
+      "lines": [
+        "Craigieburn",
+        "Sunbury",
+        "Upfield",
+        "Werribee",
+        "Williamstown"
+      ],
+      "distance_from_southern_cross_km": 2.0,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1859-01-17",
+      "suburb": "North Melbourne",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Jewell",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 4.2,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1884-09-09",
+      "suburb": "Brunswick",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Brunswick",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 5.3,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1884-09-09",
+      "suburb": "Brunswick",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Anstey",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 8.0,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1926-12-15",
+      "suburb": "Brunswick",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Moreland",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 9.0,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1884-09-09",
+      "suburb": "Coburg",
+      "status": "current",
+      "notes": "Level crossing removed 2023"
+    },
+    {
+      "name": "Coburg",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 10.3,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1884-09-09",
+      "suburb": "Coburg",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Batman",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 11.2,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1889-10-08",
+      "suburb": "Coburg North",
+      "status": "current",
+      "notes": "Formerly Bell Park"
+    },
+    {
+      "name": "Merlynston",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 12.3,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1922-07-01",
+      "suburb": "Coburg North",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Fawkner",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 13.7,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1889-10-08",
+      "suburb": "Fawkner",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Gowrie",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 15.2,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1922-07-01",
+      "suburb": "Glenroy",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Upfield",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 16.0,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1889-10-08",
+      "suburb": "Upfield",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Kensington",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 3.5,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1860-11-01",
+      "suburb": "Kensington",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Newmarket",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 5.0,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1860-11-01",
+      "suburb": "Flemington",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Ascot Vale",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 5.8,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1860-11-01",
+      "suburb": "Ascot Vale",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Moonee Ponds",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 7.0,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1860-11-01",
+      "suburb": "Moonee Ponds",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Essendon",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 8.8,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1860-11-01",
+      "suburb": "Essendon",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Glenbervie",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 10.0,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1927-01-01",
+      "suburb": "Essendon",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Strathmore",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 11.8,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1927-01-01",
+      "suburb": "Strathmore",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Pascoe Vale",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 13.1,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1927-01-01",
+      "suburb": "Pascoe Vale",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Oak Park",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 14.5,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1956-10-08",
+      "suburb": "Oak Park",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Glenroy",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 15.9,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1927-01-01",
+      "suburb": "Glenroy",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Jacana",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 17.5,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1956-10-08",
+      "suburb": "Jacana",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Broadmeadows",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 19.0,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1872-02-01",
+      "suburb": "Broadmeadows",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Coolaroo",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 21.5,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "2007-06-05",
+      "suburb": "Coolaroo",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Roxburgh Park",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 23.5,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "2007-06-05",
+      "suburb": "Roxburgh Park",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Craigieburn",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 26.5,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1872-02-01",
+      "suburb": "Craigieburn",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Footscray",
+      "lines": [
+        "Sunbury",
+        "Werribee",
+        "Williamstown"
+      ],
+      "distance_from_southern_cross_km": 5.1,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1859-01-17",
+      "suburb": "Footscray",
+      "status": "current",
+      "notes": "Major interchange"
+    },
+    {
+      "name": "Middle Footscray",
+      "lines": [
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": 6.6,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1912-10-01",
+      "suburb": "West Footscray",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "West Footscray",
+      "lines": [
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": 7.8,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1912-10-01",
+      "suburb": "West Footscray",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Tottenham",
+      "lines": [
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": 9.6,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1891-01-01",
+      "suburb": "Tottenham",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Sunshine",
+      "lines": [
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": 12.5,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1885-01-01",
+      "suburb": "Sunshine",
+      "status": "current",
+      "notes": "Major interchange"
+    },
+    {
+      "name": "Burnley",
+      "lines": [
+        "Belgrave",
+        "Lilydale",
+        "Glen Waverley",
+        "Alamein"
+      ],
+      "distance_from_southern_cross_km": 4.3,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1860-01-01",
+      "suburb": "Burnley",
+      "status": "current",
+      "notes": "Major junction station"
+    },
+    {
+      "name": "Hawthorn",
+      "lines": [
+        "Belgrave",
+        "Lilydale"
+      ],
+      "distance_from_southern_cross_km": 6.1,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1861-04-13",
+      "suburb": "Hawthorn",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Glenferrie",
+      "lines": [
+        "Belgrave",
+        "Lilydale"
+      ],
+      "distance_from_southern_cross_km": 6.7,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1861-04-13",
+      "suburb": "Hawthorn",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Camberwell",
+      "lines": [
+        "Belgrave",
+        "Lilydale",
+        "Alamein"
+      ],
+      "distance_from_southern_cross_km": 9.2,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1882-12-01",
+      "suburb": "Camberwell",
+      "status": "current",
+      "notes": "Major interchange"
+    },
+    {
+      "name": "Glen Waverley",
+      "lines": [
+        "Glen Waverley"
+      ],
+      "distance_from_southern_cross_km": 19.3,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1930-05-05",
+      "suburb": "Glen Waverley",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Box Hill",
+      "lines": [
+        "Belgrave",
+        "Lilydale"
+      ],
+      "distance_from_southern_cross_km": 16.2,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1882-12-01",
+      "suburb": "Box Hill",
+      "status": "current",
+      "notes": "Major interchange"
+    },
+    {
+      "name": "Ringwood",
+      "lines": [
+        "Belgrave",
+        "Lilydale"
+      ],
+      "distance_from_southern_cross_km": 24.1,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1889-12-04",
+      "suburb": "Ringwood",
+      "status": "current",
+      "notes": "Major interchange"
+    },
+    {
+      "name": "Belgrave",
+      "lines": [
+        "Belgrave"
+      ],
+      "distance_from_southern_cross_km": 42.5,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1900-12-18",
+      "suburb": "Belgrave",
+      "status": "current",
+      "notes": "Formerly Monbulk"
+    },
+    {
+      "name": "Lilydale",
+      "lines": [
+        "Lilydale"
+      ],
+      "distance_from_southern_cross_km": 41.9,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1882-12-01",
+      "suburb": "Lilydale",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Alamein",
+      "lines": [
+        "Alamein"
+      ],
+      "distance_from_southern_cross_km": 16.1,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1948-06-28",
+      "suburb": "Ashburton",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "South Yarra",
+      "lines": [
+        "Cranbourne",
+        "Frankston",
+        "Pakenham",
+        "Sandringham"
+      ],
+      "distance_from_southern_cross_km": 4.0,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1860-12-22",
+      "suburb": "South Yarra",
+      "status": "current",
+      "notes": "Major interchange"
+    },
+    {
+      "name": "Caulfield",
+      "lines": [
+        "Cranbourne",
+        "Frankston",
+        "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 10.1,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1879-05-07",
+      "suburb": "Caulfield East",
+      "status": "current",
+      "notes": "Major interchange"
+    },
+    {
+      "name": "Oakleigh",
+      "lines": [
+        "Cranbourne",
+        "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 14.3,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1879-05-07",
+      "suburb": "Oakleigh",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Dandenong",
+      "lines": [
+        "Cranbourne",
+        "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 31.5,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1877-10-08",
+      "suburb": "Dandenong",
+      "status": "current",
+      "notes": "Major interchange"
+    },
+    {
+      "name": "Cranbourne",
+      "lines": [
+        "Cranbourne"
+      ],
+      "distance_from_southern_cross_km": 45.8,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1888-10-01",
+      "suburb": "Cranbourne",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Pakenham",
+      "lines": [
+        "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 56.2,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1877-10-08",
+      "suburb": "Pakenham",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Sandringham",
+      "lines": [
+        "Sandringham"
+      ],
+      "distance_from_southern_cross_km": 18.3,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1881-12-19",
+      "suburb": "Sandringham",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Baxter",
+      "lines": [
+        "Stony Point"
+      ],
+      "distance_from_southern_cross_km": 52.0,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1888-10-01",
+      "suburb": "Baxter",
+      "status": "current",
+      "notes": "Diesel service"
+    },
+    {
+      "name": "Stony Point",
+      "lines": [
+        "Stony Point"
+      ],
+      "distance_from_southern_cross_km": 61.0,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1889-09-10",
+      "suburb": "Stony Point",
+      "status": "current",
+      "notes": "Diesel service"
+    },
+    {
+      "name": "Anzac",
+      "lines": [
+        "Cranbourne",
+        "Pakenham",
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": null,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "2025-11-30",
+      "suburb": "South Yarra",
+      "status": "future",
+      "notes": "Metro Tunnel station"
+    },
+    {
+      "name": "Arden",
+      "lines": [
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": null,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "2025-11-30",
+      "suburb": "North Melbourne",
+      "status": "future",
+      "notes": "Metro Tunnel station"
+    },
+    {
+      "name": "Parkville",
+      "lines": [
+        "Cranbourne",
+        "Pakenham"
+      ],
+      "distance_from_southern_cross_km": null,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "2025-11-30",
+      "suburb": "Parkville",
+      "status": "future",
+      "notes": "Metro Tunnel station"
+    },
+    {
+      "name": "State Library",
+      "lines": [
+        "Cranbourne",
+        "Pakenham",
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": null,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "2025-11-30",
+      "suburb": "Melbourne CBD",
+      "status": "future",
+      "notes": "Metro Tunnel station"
+    },
+    {
+      "name": "Town Hall",
+      "lines": [
+        "Cranbourne",
+        "Pakenham",
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": null,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "2025-11-30",
+      "suburb": "Melbourne CBD",
+      "status": "future",
+      "notes": "Metro Tunnel station"
+    }
+  ]
+}
