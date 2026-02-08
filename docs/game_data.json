@@ -331,8 +331,49 @@
     "status": "current",
     "notes": null
   },
-  // verified above
-
+  {
+    "name": "Blackburn",
+    "lines": [
+      "Belgrave",
+      "Lilydale"
+    ],
+    "distance_from_southern_cross_km": 18.67,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1882-12-25",
+    "suburb": "Blackburn",
+    "status": "current",
+    "notes": "Opened on Christmas Day 1882"
+  },
+  {
+    "name": "Bonbeach",
+    "lines": [
+      "Frankston"
+    ],
+    "distance_from_southern_cross_km": 34.61,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1926-02-15",
+    "suburb": "Bonbeach",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Boronia",
+    "lines": [
+      "Belgrave"
+    ],
+    "distance_from_southern_cross_km": 33.38,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1920-06-16",
+    "suburb": "Boronia",
+    "status": "current",
+    "notes": null
+  },
 
 
   {
@@ -443,6 +484,14 @@
     "status": "current",
     "notes": "Major interchange"
   },
+
+  // verified above
+
+
+
+
+
+
   {
     "name": "Caulfield",
     "lines": [
