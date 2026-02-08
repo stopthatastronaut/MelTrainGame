@@ -1295,18 +1295,97 @@
 
 
 
+    {
+      "name": "Hallam",
+      "lines": [
+        "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 37.45,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1880-12-01",
+      "suburb": "Hallam",
+      "status": "current",
+      "notes": "Formerly Hallam's Road; Rebuilt in 2022"
+    },
+    {
+      "name": "Hampton",
+      "lines": [
+        "Sandringham"
+      ],
+      "distance_from_southern_cross_km": 17.70,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1887-09-02",
+      "suburb": "Hampton",
+      "status": "current",
+      "notes": "Formerly Retreat"
+    },
+    {
+      "name": "Hartwell",
+      "lines": [
+        "Alamein"
+      ],
+      "distance_from_southern_cross_km": 13.30,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1906-05-17",
+      "suburb": "Camberwell",
+      "status": "current",
+      "notes": "Formerly Hartwell Hill"
+    },
+    {
+      "name": "Hastings",
+      "lines": [
+        "Stony Point"
+      ],
+      "distance_from_southern_cross_km": 64.99,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1889-09-10",
+      "suburb": "Hastings",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Hawksburn",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 6.63,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1889-05-07",
+      "suburb": "South Yarra",
+      "status": "current",
+      "notes": null
+    },
 
-
-
-
-
-
-
+    {
+      "name": "Hawkstowe",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 30.73,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "2018-08-26",
+      "suburb": "South Morang",
+      "status": "current",
+      "notes": null
+    },
     {
       "name": "Hawthorn",
       "lines": [
         "Belgrave",
-        "Lilydale"
+        "Lilydale",
+        "Alamein"
       ],
       "distance_from_southern_cross_km": 6.1,
       "zones": [
@@ -1318,16 +1397,177 @@
       "notes": null
     },
     {
+      "name": "Heatherdale",
+      "lines": [
+        "Belgrave",
+        "Lilydale"
+      ],
+      "distance_from_southern_cross_km": 24.42,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1958-09-07",
+      "suburb": "Ringwood",
+      "status": "current",
+      "notes": "Rebuilt in 2017"
+    },
+    {
+      "name": "Heathmont",
+      "lines": [
+        "Belgrave"
+      ],
+      "distance_from_southern_cross_km": 28.12,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1926-05-01",
+      "suburb": "Heathmont",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Heidelberg",
+      "lines": [
+        "Hurstbridge"
+      ],
+      "distance_from_southern_cross_km": 14.04,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1888-05-08",
+      "suburb": "Heidelberg",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Heyington",
+      "lines": [
+        "Glen Waverley"
+      ],
+      "distance_from_southern_cross_km": 15.64,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1890-03-24",
+      "suburb": "Toorak",
+      "status": "current",
+      "notes": null
+    },
+        {
+      "name": "Highett",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 20.06,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1881-12-19",
+      "suburb": "Highett",
+      "status": "current",
+      "notes": "Formerly Highett Road"
+    },
+    {
+      "name": "Holmesglen",
+      "lines": [
+        "Glen Waverley"
+      ],
+      "distance_from_southern_cross_km": 15.64,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1930-05-05",
+      "suburb": "East Malvern",
+      "status": "current",
+      "notes": null
+    },
+        {
+      "name": "Hoopers Crossing",
+      "lines": [
+        "Werribee"
+      ],
+      "distance_from_southern_cross_km": 27.67,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1970-11-16",
+      "suburb": "Hoppers Crossing",
+      "status": "current",
+      "notes": null
+    },
+        {
+      "name": "Hughesdale",
+      "lines": [
+        "Cranbourne",
+        "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 15.27,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1970-11-16",
+      "suburb": "Hughesdale",
+      "status": "current",
+      "notes": null
+    },
+        {
+      "name": "Huntingdale",
+      "lines": [
+        "Cranbourne",
+        "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 15.27,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1927-06-25",
+      "suburb": "Oakleigh",
+      "status": "current",
+      "notes": "Formerly Eastoakleigh"
+    },
+        {
+      "name": "Hurstbridge",
+      "lines": [
+        "Hurstbridge"
+      ],
+      "distance_from_southern_cross_km": 38.02,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1912-06-25",
+      "suburb": "Hurstbridge",
+      "status": "current",
+      "notes": null
+    },
+        {
+      "name": "Ivanhoe",
+      "lines": [
+        "Hurstbridge"
+      ],
+      "distance_from_southern_cross_km": 12.14,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1888-05-08",
+      "suburb": "Ivanhoe",
+      "status": "current",
+      "notes": null
+    },
+    {
       "name": "Jacana",
       "lines": [
         "Craigieburn"
       ],
-      "distance_from_southern_cross_km": 17.5,
+      "distance_from_southern_cross_km": 15.43,
       "zones": [
         "Zone 2"
       ],
       "date_opened": "1956-10-08",
-      "suburb": "Jacana",
+      "suburb": "Glenroy",
       "status": "current",
       "notes": null
     },
@@ -1345,6 +1585,45 @@
       "status": "current",
       "notes": null
     },
+    {
+      "name": "Jolimont",
+      "lines": [
+        "Hurstbridge",
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 2.91,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1901-10-21",
+      "suburb": "East Melbourne",
+      "status": "current",
+      "notes": null
+    },
+        {
+      "name": "Jordanville",
+      "lines": [
+        "Glen Waverley"
+      ],
+      "distance_from_southern_cross_km": 17.64,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1930-05-05",
+      "suburb": "Mount Waverley",
+      "status": "current",
+      "notes": null
+    },
+
+
+
+
+
+
+
+
+
+
     {
       "name": "Kensington",
       "lines": [
