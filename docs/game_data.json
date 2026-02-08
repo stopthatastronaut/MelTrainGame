@@ -706,8 +706,6 @@
     "status": "current",
     "notes": "Upgraded in 2008"
   },
-
-
   {
     "name": "Crib Point",
     "lines": [
@@ -722,7 +720,6 @@
     "status": "current",
     "notes": null
   },
-
   {
     "name": "Croxton",
     "lines": [
@@ -737,7 +734,6 @@
     "status": "current",
     "notes": null
   },
-
   {
     "name": "Croydon",
     "lines": [
@@ -797,7 +793,7 @@
 
 
 
-  
+
   {
     "name": "Fawkner",
     "lines": [
@@ -1452,6 +1448,72 @@
     "status": "current",
     "notes": null
   },
+
+
+
+
+
+
+
+   {
+    "name": "Watergardens",
+    "lines": [
+      "Bendigo",
+      "Echuca",
+      "Sunbury",
+      "Swan Hill"
+    ],
+    "distance_from_southern_cross_km": 23.28,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1859-03-01",
+    "suburb": "Sydenham",
+    "status": "current",
+    "notes": "Formerly Sydenham and Formerly Keilor Road; Upgraded in 2002"
+  }, 
+  {
+    "name": "Watsonia",
+    "lines": [
+      "Hurstbridge"
+    ],
+    "distance_from_southern_cross_km": 19.92,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1924-06-23",
+    "suburb": "Greensborough",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Wattle Glen",
+    "lines": [
+      "Hurstbridge"
+    ],
+    "distance_from_southern_cross_km": 35.06,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1912-06-25",
+    "suburb": "Wattle Glen",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Werribee",
+    "lines": [
+      "Werribee"
+    ],
+    "distance_from_southern_cross_km": 31.70,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1857-06-25",
+    "suburb": "Werribee",
+    "status": "current",
+    "notes": null
+  },
   {
     "name": "West Footscray",
     "lines": [
@@ -1466,10 +1528,79 @@
     "status": "current",
     "notes": null
   },
-
-
-
-
+  {
+    "name": "West Richmond",
+    "lines": [
+      "Hurstbridge",
+      "Mernda"
+    ],
+    "distance_from_southern_cross_km": 3.66,
+    "zones": [
+      "Zone 1"
+    ],
+    "date_opened": "1901-10-21",
+    "suburb": "Richmond",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Westall",
+    "lines": [
+      "Cranbourne",
+      "Pakenham"
+    ],
+    "distance_from_southern_cross_km": 22.64,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1951-02-06",
+    "suburb": "Clayton South",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Westgarth",
+    "lines": [
+      "Hurstbridge"
+    ],
+    "distance_from_southern_cross_km": 7.55,
+    "zones": [
+      "Zone 1"
+    ],
+    "date_opened": "1888-05-08",
+    "suburb": "Northcote",
+    "status": "current",
+    "notes": "Formerly Northcote South/Westgarth Street"
+  },
+  {
+    "name": "Westona",
+    "lines": [
+      "Werribee"
+    ],
+    "distance_from_southern_cross_km": 18.53,
+    "zones": [
+      "Zone 1",
+      "Zone 2"
+    ],
+    "date_opened": "1985-01-21",
+    "suburb": "Altona",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Williams Landing",
+    "lines": [
+      "Werribee"
+    ],
+    "distance_from_southern_cross_km": 23.48,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "2013-04-28",
+    "suburb": "Williams Landing",
+    "status": "current",
+    "notes": null
+  },
   {
     "name": "Williamstown",
     "lines": [
@@ -1484,8 +1615,6 @@
     "status": "current",
     "notes": null
   },
-
-
   {
     "name": "Williamstown Beach",
     "lines": [
@@ -1500,7 +1629,6 @@
     "status": "current",
     "notes": null
   },
-
   {
     "name": "Willison",
     "lines": [
@@ -1515,9 +1643,6 @@
     "status": "current",
     "notes": null
   },
-
-
-
   {
     "name": "Windsor",
     "lines": [
@@ -1532,10 +1657,6 @@
     "status": "current",
     "notes": null
   },
-
-
-
-
   {
     "name": "Yarraman",
     "lines": [
