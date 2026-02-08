@@ -1607,10 +1607,80 @@
       ],
       "distance_from_southern_cross_km": 17.64,
       "zones": [
-        "Zone 1"
+        "Zone 2"
       ],
       "date_opened": "1930-05-05",
       "suburb": "Mount Waverley",
+      "status": "current",
+      "notes": null
+    },
+      {
+      "name": "Kananook",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 41.44,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1975-08-25",
+      "suburb": "Seaford",
+      "status": "current",
+      "notes": null
+    },
+      {
+      "name": "Keilor Plains",
+      "lines": [
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": 19.62,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "2002-01-27",
+      "suburb": "St Albans",
+      "status": "current",
+      "notes": null
+    },
+      {
+      "name": "Kensington",
+      "lines": [
+        "Craigieburn"
+      ],
+      "distance_from_southern_cross_km": 3.58,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1860-11-01",
+      "suburb": "Kensington",
+      "status": "current",
+      "notes": null
+    },
+      {
+      "name": "Keon Park",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 17.54,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1929-12-16",
+      "suburb": "Thomastown",
+      "status": "current",
+      "notes": null
+    },
+      {
+      "name": "Kooyong",
+      "lines": [
+        "Glen Waverley"
+      ],
+      "distance_from_southern_cross_km": 8.28,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1890-03-24",
+      "suburb": "Kooyong",
       "status": "current",
       "notes": null
     },
