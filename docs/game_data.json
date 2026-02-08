@@ -485,13 +485,65 @@
     "notes": "Major interchange"
   },
 
-  // verified above
-
-
-
-
-
-
+  {
+    "name": "Canterbury",
+    "lines": [
+      "Belgrave",
+      "Lilydale"
+    ],
+    "distance_from_southern_cross_km": 12.19,
+    "zones": [
+      "Zone 1",
+      "Zone 2"
+    ],
+    "date_opened": "1882-12-01",
+    "suburb": "Canterbury",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Cardinia Road",
+    "lines": [
+      "Pakenham"
+    ],
+    "distance_from_southern_cross_km": 53.8,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "2012-04-22",
+    "suburb": "Pakenham",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Carnegie",
+    "lines": [
+      "Cranbourne",
+      "Pakenham"
+    ],
+    "distance_from_southern_cross_km": 10.1,
+    "zones": [
+      "Zone 1"
+    ],
+    "date_opened": "1879-05-14",
+    "suburb": "Carnegie",
+    "status": "current",
+    "notes": "Formerly Rosstown. Rebuilt in 2018"
+  },
+  {
+    "name": "Carrum",
+    "lines": [
+      "Frankston"
+    ],
+    "distance_from_southern_cross_km": 36.10,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1882-08-01",
+    "suburb": "Carrum",
+    "status": "current",
+    "notes": "Rebuilt in 2020"
+  },
   {
     "name": "Caulfield",
     "lines": [
@@ -509,6 +561,81 @@
     "notes": "Major interchange"
   },
   {
+    "name": "Chatham",
+    "lines": [
+      "Belgrave",
+      "Lilydale"
+    ],
+    "distance_from_southern_cross_km": 12.95,
+    "zones": [
+      "Zone 1",
+      "Zone 2"
+    ],
+    "date_opened": "1927-04-01",
+    "suburb": "Surrey Hills",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Chelsea",
+    "lines": [
+      "Frankston"
+    ],
+    "distance_from_southern_cross_km": 33.37,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1907-02-04",
+    "suburb": "Chelsea",
+    "status": "current",
+    "notes": "Rebuilt in 2021"
+  },
+  {
+    "name": "Cheltenham",
+    "lines": [
+      "Frankston"
+    ],
+    "distance_from_southern_cross_km": 22.31,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1881-12-19",
+    "suburb": "Cheltenham",
+    "status": "current",
+    "notes": "Rebuilt in 2020"
+  },
+  {
+    "name": "Clayton",
+    "lines": [
+      "Cranbourne",
+      "Pakenham",
+      "Traralgon"
+    ],
+    "distance_from_southern_cross_km": 20.51,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1880-01-06",
+    "suburb": "Clayton",
+    "status": "current",
+    "notes": "Formerly Clayton's Road, Rebuilt in 2018"
+  },
+  {
+    "name": "Clifton Hill",
+    "lines": [
+      "Hurstbridge",
+      "Mernda"
+    ],
+    "distance_from_southern_cross_km": 6.6,
+    "zones": [
+      "Zone 1"
+    ],
+    "date_opened": "1888-05-08",
+    "suburb": "Clifton Hill",
+    "status": "current",
+    "notes": null
+  },
+  {
     "name": "Coburg",
     "lines": [
       "Upfield"
@@ -519,6 +646,21 @@
     ],
     "date_opened": "1884-09-09",
     "suburb": "Coburg",
+    "status": "current",
+    "notes": null
+  },
+  {
+    "name": "Collingwood",
+    "lines": [
+      "Hurstbridge",
+      "Mernda"
+    ],
+    "distance_from_southern_cross_km": 4.83,
+    "zones": [
+      "Zone 1"
+    ],
+    "date_opened": "1901-10-21",
+    "suburb": "Abbotsford",
     "status": "current",
     "notes": null
   },
@@ -548,7 +690,7 @@
     "date_opened": "1872-02-01",
     "suburb": "Craigieburn",
     "status": "current",
-    "notes": null
+    "notes": "Upgraded in 2007"
   },
   {
     "name": "Cranbourne",
@@ -562,8 +704,62 @@
     "date_opened": "1888-10-01",
     "suburb": "Cranbourne",
     "status": "current",
+    "notes": "Upgraded in 2008"
+  },
+
+
+  {
+    "name": "Crib Point",
+    "lines": [
+      "Stony Point"
+    ],
+    "distance_from_southern_cross_km": 72.83,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1889-12-17",
+    "suburb": "Crib Point",
+    "status": "current",
     "notes": null
   },
+
+  {
+    "name": "Croxton",
+    "lines": [
+      "Mernda"
+    ],
+    "distance_from_southern_cross_km": 9.61,
+    "zones": [
+      "Zone 1"
+    ],
+    "date_opened": "1889-10-08",
+    "suburb": "Northcote",
+    "status": "current",
+    "notes": null
+  },
+
+  {
+    "name": "Croydon",
+    "lines": [
+      "Lilydale"
+    ],
+    "distance_from_southern_cross_km": 31.05,
+    "zones": [
+      "Zone 2"
+    ],
+    "date_opened": "1882-12-01",
+    "suburb": "Croydon",
+    "status": "current",
+    "notes": "Formerly Warrandyte"
+  },
+
+
+
+
+
+
+
+
   {
     "name": "Dandenong",
     "lines": [
@@ -579,6 +775,11 @@
     "status": "current",
     "notes": "Major interchange"
   },
+
+
+
+
+
   {
     "name": "Essendon",
     "lines": [
@@ -593,6 +794,10 @@
     "status": "current",
     "notes": null
   },
+
+
+
+  
   {
     "name": "Fawkner",
     "lines": [
@@ -904,7 +1109,7 @@
     "lines": [
       "Craigieburn"
     ],
-    "distance_from_southern_cross_km": 5.0,
+    "distance_from_southern_cross_km": 4.3,
     "zones": [
       "Zone 1"
     ],
@@ -917,7 +1122,8 @@
     "name": "North Melbourne",
     "lines": [
       "Craigieburn",
-      "Sunbury",
+      "Flemington Racecourse",
+      "Seymour",
       "Upfield",
       "Werribee",
       "Williamstown"
