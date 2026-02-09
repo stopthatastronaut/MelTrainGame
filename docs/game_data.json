@@ -2105,15 +2105,20 @@
       "status": "current",
       "notes": "Rebuilt 2018"
     },
-
-
-
-
-
-
-
-
-
+    {
+      "name": "Narre Warren",
+      "lines": [
+        "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 40.80,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1882-03-10",
+      "suburb": "Narre Warren",
+      "status": "current",
+      "notes": "Rebuilt 2024"
+    },
     {
       "name": "Newmarket",
       "lines": [
@@ -2129,6 +2134,49 @@
       "notes": null
     },
     {
+      "name": "Newport",
+      "lines": [
+        "Werribee", "Williamstown"
+      ],
+      "distance_from_southern_cross_km": 10.56,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1859-03-01",
+      "suburb": "Newport",
+      "status": "current",
+      "notes": "Formerly Williamstown Junction; Formerly Geelong Junction"
+    },
+    {
+      "name": "Noble Park",
+      "lines": [
+        "Cranbourne", "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 27.23,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1913-02-03",
+      "suburb": "Noble Park",
+      "status": "current",
+      "notes": "Rebuilt 2018"
+    },
+    {
+      "name": "North Brighton",
+      "lines": [
+        "Sandringham"
+      ],
+      "distance_from_southern_cross_km": 13.24,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1859-12-19",
+      "suburb": "Brighton",
+      "status": "current",
+      "notes": "Formerly Bay Street"
+    },
+    {
       "name": "North Melbourne",
       "lines": [
         "Craigieburn",
@@ -2138,15 +2186,74 @@
         "Werribee",
         "Williamstown"
       ],
-      "distance_from_southern_cross_km": 2.0,
+      "distance_from_southern_cross_km": 1.72,
       "zones": [
         "Zone 1"
       ],
-      "date_opened": "1859-01-17",
-      "suburb": "North Melbourne",
+      "date_opened": "1859-10-06",
+      "suburb": "West Melbourne",
+      "status": "current",
+      "notes": "Upgraded in 2009"
+    },
+    {
+      "name": "North Richmond",
+      "lines": [
+        "Hurstbridge", "Mernda"
+      ],
+      "distance_from_southern_cross_km": 4.16,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1901-10-21",
+      "suburb": "Richmond",
       "status": "current",
       "notes": null
     },
+    {
+      "name": "North Williamstown",
+      "lines": [
+        "Williamstown"
+      ],
+      "distance_from_southern_cross_km": 12.27,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1859-02-01",
+      "suburb": "Williamstown",
+      "status": "current",
+      "notes": "Rebuilt in 2021"
+    },
+    {
+      "name": "Northcote",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 8.97,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1889-10-08",
+      "suburb": "Northcote",
+      "status": "current",
+      "notes": "Formerly Middle Northcote"
+    },
+    {
+      "name": "Nunawading",
+      "lines": [
+        "Belgrave", "Lilydale"
+      ],
+      "distance_from_southern_cross_km": 20.77,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1888-06-04",
+      "suburb": "Nunawading",
+      "status": "current",
+      "notes": "Formerly Tunstall; Rebuilt in 2010"
+    },
+
+
+
     {
       "name": "Oak Park",
       "lines": [
