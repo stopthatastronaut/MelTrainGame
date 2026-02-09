@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <title>On Which Melbourne Metro Train Line Would You Find...</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="{{ '/assets/js/game.js?v=' | append: site.github.build_revision | relative_url }}" defer></script>
+    <script type="text/javascript" src="//unpkg.com/alpinejs" defer></script> 
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }} <span style="font-size: smaller;">(beta)</span></h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2> | 
+          <a class="btn btn-github" 
+              href="{{ site.github.repository_url }}"><span class="icon"></span>View on GitHub</a> | 
+          <a class="btn btn-github" 
+              href="https://aus.social/@drunkenmadman">Created by @drunkenmadman</a> | 
+          <a class="btn btn-github" 
+              href="https://www.hardroadbrewing.com/">Thursday Trivia at Hard Road</a> |
+        </section>
+      </div>
+    </header>
+    <div class="container">
+      Wait
+    </div>
+    <div id="footer" style="position:fixed; bottom:0;">🍺 Buy me a beer at <a href="https://ko-fi.com/stopthatastronaut">Ko-fi</a> - <a href="https://en.wikipedia.org/wiki/List_of_Metro_Trains_Melbourne_railway_stations">Data from Wikipedia (CC licence)</a> - <a href="https://github.com/stopthatastronaut/MelTrainGame/issues">Report an issue</a></div>
+  </body>
+</html>
