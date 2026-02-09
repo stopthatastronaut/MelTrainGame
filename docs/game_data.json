@@ -1684,29 +1684,63 @@
       "status": "current",
       "notes": null
     },
-
-
-
-
-
-
-
-
-
-
     {
-      "name": "Kensington",
+      "name": "Laburnum",
       "lines": [
-        "Craigieburn"
+        "Lilydale",
+        "Belgrave"
       ],
-      "distance_from_southern_cross_km": 3.5,
+      "distance_from_southern_cross_km": 17.82,
       "zones": [
-        "Zone 1"
+        "Zone 2"
       ],
-      "date_opened": "1860-11-01",
-      "suburb": "Kensington",
+      "date_opened": "1958-07-03",
+      "suburb": "Blackburn",
       "status": "current",
       "notes": null
+    },
+    {
+      "name": "Lalor",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 20.81,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1949-10-01",
+      "suburb": "Lalor",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Laverton",
+      "lines": [
+        "Werribee"
+      ],
+      "distance_from_southern_cross_km": 21.01,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1886-07-01",
+      "suburb": "Laverton",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Leawarra",
+      "lines": [
+        "Stony Point"
+      ],
+      "distance_from_southern_cross_km": 45.77,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1959-11-30",
+      "suburb": "Frankston",
+      "status": "current",
+      "notes": "Formerly Railmotor Stopping Place No. 16"
     },
     {
       "name": "Lilydale",
@@ -1722,6 +1756,23 @@
       "status": "current",
       "notes": null
     },
+    {
+      "name": "Lynbrook",
+      "lines": [
+        "Cranbourne"
+      ],
+      "distance_from_southern_cross_km": 39.59,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "2012-04-22",
+      "suburb": "Lynbrook",
+      "status": "current",
+      "notes": null
+    },
+
+
+
     {
       "name": "Melbourne Central",
       "lines": [
