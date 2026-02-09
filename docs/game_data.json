@@ -1770,9 +1770,63 @@
       "status": "current",
       "notes": null
     },
-
-
-
+    {
+      "name": "Macaulay",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 3.25,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1887-12-01",
+      "suburb": "North Melbourne",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Macleod",
+      "lines": [
+        "Hurstbridge"
+      ],
+      "distance_from_southern_cross_km": 17.71,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1911-03-01",
+      "suburb": "Macleod",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Malvern",
+      "lines": [
+        "Cranbourne", "Frankston", "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 10.11,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1879-05-07",
+      "suburb": "Malvern",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "McKinnon",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 15.84,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1884-09-01",
+      "suburb": "McKinnon",
+      "status": "current",
+      "notes": "Formerly McKinnon Road; Rebuilt in 2016"
+    },
     {
       "name": "Melbourne Central",
       "lines": [
@@ -1796,7 +1850,35 @@
       "date_opened": "1981-01-26",
       "suburb": "Melbourne",
       "status": "current",
-      "notes": "City Loop underground station"
+      "notes": "City Loop underground station, Formerly Museum Station"
+    },
+    {
+      "name": "Mentone",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 24.48,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1881-12-19",
+      "suburb": "Mentone",
+      "status": "current",
+      "notes": "Formerly Balcombe Road, Rebult in 2020"
+    },
+    {
+      "name": "Merinda Park",
+      "lines": [
+        "Cranbourne"
+      ],
+      "distance_from_southern_cross_km": 42.35,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1995-03-24",
+      "suburb": "Cranbourne North",
+      "status": "current",
+      "notes": "Rebuilt in 2022"
     },
     {
       "name": "Merlynston",
@@ -1813,6 +1895,49 @@
       "notes": "Formerly North Coburg"
     },
     {
+      "name": "Mernda",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 33.07,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1889-12-23",
+      "suburb": "Mernda",
+      "status": "current",
+      "notes": "Rebuilt Aug 2018"
+    },
+    {
+      "name": "Merri",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 8.04,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1889-10-08",
+      "suburb": "Northcote",
+      "status": "current",
+      "notes": "Formerly Northcote Station"
+    },
+    {
+      "name": "Middle Brighton",
+      "lines": [
+        "Sandringham"
+      ],
+      "distance_from_southern_cross_km": 14.52,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1861-12-21",
+      "suburb": "Brighton",
+      "status": "current",
+      "notes": "Formerly Church Street"
+    },
+    {
       "name": "Middle Footscray",
       "lines": [
         "Sunbury"
@@ -1823,6 +1948,48 @@
       ],
       "date_opened": "1912-10-01",
       "suburb": "West Footscray",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Middle Gorge",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 28.34,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "2018-08-26",
+      "suburb": "South Morang",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Mitcham",
+      "lines": [
+        "Belgrave", "Lilydale"
+      ],
+      "distance_from_southern_cross_km": 22.47,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1882-12-25",
+      "suburb": "Mitcham",
+      "status": "current",
+      "notes": "Rebuilt 2014"
+    },
+    {
+      "name": "Montmorency",
+      "lines": [
+        "Hurstbridge"
+      ],
+      "distance_from_southern_cross_km": 24.69,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1923-09-05",
+      "suburb": "Montmorency",
       "status": "current",
       "notes": null
     },
@@ -1841,6 +2008,48 @@
       "notes": null
     },
     {
+      "name": "Moorabbin",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 18.45,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1881-12-19",
+      "suburb": "Morrabbin",
+      "status": "current",
+      "notes": "Formerly South Brighton"
+    },
+    {
+      "name": "Mooroolbark",
+      "lines": [
+        "Lilydale"
+      ],
+      "distance_from_southern_cross_km": 34.48,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1887-10-10",
+      "suburb": "Mooroolbark",
+      "status": "current",
+      "notes": "Rebuilt 2021"
+    },
+    {
+      "name": "Mordialloc",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 27.69,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1881-12-19",
+      "suburb": "Mordialloc",
+      "status": "current",
+      "notes": null
+    },
+    {
       "name": "Moreland",
       "lines": [
         "Upfield"
@@ -1854,6 +2063,57 @@
       "status": "current",
       "notes": "Level crossing removed 2023"
     },
+    {
+      "name": "Morradoo",
+      "lines": [
+        "Stony Point"
+      ],
+      "distance_from_southern_cross_km": 70.96,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1960-11-07",
+      "suburb": "Crib Point",
+      "status": "current",
+      "notes": "Formerly Railmotor Stopping Place no 15"
+    },
+    {
+      "name": "Mount Waverley",
+      "lines": [
+        "Glen Waverley"
+      ],
+      "distance_from_southern_cross_km": 19.00,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1930-05-05",
+      "suburb": "Mount Waverley",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Murrumbeena",
+      "lines": [
+        "Cranbourne", "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 14.43,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1879-05-14",
+      "suburb": "Murrumbeena",
+      "status": "current",
+      "notes": "Rebuilt 2018"
+    },
+
+
+
+
+
+
+
+
+
     {
       "name": "Newmarket",
       "lines": [
