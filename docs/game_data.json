@@ -2577,7 +2577,6 @@
       "status": "current",
       "notes": "Formerly Somerton"
     },
-
     {
       "name": "Royal Park",
       "lines": [
@@ -2592,7 +2591,6 @@
       "status": "current",
       "notes": null
     },
-
     {
       "name": "Rushall",
       "lines": [
@@ -2607,7 +2605,6 @@
       "status": "current",
       "notes": null
     },
-
     {
       "name": "Ruthven",
       "lines": [
@@ -2622,15 +2619,20 @@
       "status": "current",
       "notes": null
     },
-
-
-
-
-
-
-
-
-
+    {
+      "name": "Sandown Park",
+      "lines": [
+        "Cranbourne", "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 25.68,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1889-08-12",
+      "suburb": "Springvale",
+      "status": "current",
+      "notes": "Formerly Oakleigh Park Racecourse"
+    },
     {
       "name": "Sandringham",
       "lines": [
@@ -2643,6 +2645,104 @@
       ],
       "date_opened": "1881-12-19",
       "suburb": "Sandringham",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Seaford",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 39.35,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1913-12-01",
+      "suburb": "Seaford",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Seaholme",
+      "lines": [
+        "Werribee"
+      ],
+      "distance_from_southern_cross_km": 16.13,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1920-01-26",
+      "suburb": "Seaholme",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Seddon",
+      "lines": [
+        "Werribee", "Williamstown"
+      ],
+      "distance_from_southern_cross_km": 6.62,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1906-12-10",
+      "suburb": "Seddon",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Showgrounds",
+      "lines": [
+        "Flemington Racecourse"
+      ],
+      "distance_from_southern_cross_km": 5.73,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1883-11-07",
+      "suburb": "Flemington",
+      "status": "current",
+      "notes": "Special Event Service only"
+    },
+    {
+      "name": "Somerville",
+      "lines": [
+        "Stony Point"
+      ],
+      "distance_from_southern_cross_km": 55.82,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1889-09-10",
+      "suburb": "Somerville",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "South Kensington",
+      "lines": [
+        "Werribee", "Williamstown"
+      ],
+      "distance_from_southern_cross_km": 3.49,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1891-03-11",
+      "suburb": "Kensington",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "South Morang",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 25.97,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "2012-04-22",
+      "suburb": "South Morang",
       "status": "current",
       "notes": null
     },
@@ -2661,7 +2761,7 @@
       "date_opened": "1860-12-22",
       "suburb": "South Yarra",
       "status": "current",
-      "notes": "Major interchange"
+      "notes": "Formerly Gardiner's Creek Road"
     },
     {
       "name": "Southern Cross",
@@ -2688,7 +2788,49 @@
       "date_opened": "1859-01-17",
       "suburb": "Docklands",
       "status": "current",
-      "notes": "Formerly Spencer Street"
+      "notes": "Formerly Spencer Street; Formerly Batman's Hill"
+    },
+    {
+      "name": "Southland",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 21.44,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "2017-11-26",
+      "suburb": "Cheltenham",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Spotswood",
+      "lines": [
+        "Werribee", "Williamstown"
+      ],
+      "distance_from_southern_cross_km": 9.22,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1878-01-01",
+      "suburb": "Spotswood",
+      "status": "current",
+      "notes": "Formerly Spottiswoode; Bayswater; Edom"
+    },
+    {
+      "name": "Springvale",
+      "lines": [
+        "Cranbourne", "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 24.5,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1880-09-01",
+      "suburb": "Springvale",
+      "status": "current",
+      "notes": "Formerly Spring Vale; Rebuilt in 2014"
     },
     {
       "name": "State Library",
@@ -2705,6 +2847,20 @@
       "suburb": "Melbourne CBD",
       "status": "current",
       "notes": "Metro Tunnel station"
+    },
+    {
+      "name": "St Albans",
+      "lines": [
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": 17.81,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1887-02-01",
+      "suburb": "St Albans",
+      "status": "current",
+      "notes": "Rebuilt 22 Nov 1959; Rebuiltin 2016"
     },
     {
       "name": "Stony Point",
@@ -2735,8 +2891,24 @@
       "notes": null
     },
     {
+      "name": "Sunbury",
+      "lines": [
+        "Bendigo", "Echuca",
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": 38.28,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1859-02-10",
+      "suburb": "Sunbury",
+      "status": "current",
+      "notes": null
+    },
+    {
       "name": "Sunshine",
       "lines": [
+        "Ballarat", "Geelong",
         "Sunbury"
       ],
       "distance_from_southern_cross_km": 12.5,
@@ -2747,22 +2919,85 @@
       "date_opened": "1885-01-01",
       "suburb": "Sunshine",
       "status": "current",
-      "notes": "Major interchange"
+      "notes": "Formerly Braybrook Junction; Upgraded in 2014"
     },
     {
-      "name": "Tottenham",
+      "name": "Syndal",
       "lines": [
-        "Sunbury"
+        "Glen Waverley"
       ],
-      "distance_from_southern_cross_km": 9.6,
+      "distance_from_southern_cross_km": 20.89,
       "zones": [
-        "Zone 1"
+        "Zone 2"
       ],
-      "date_opened": "1891-01-01",
-      "suburb": "Tottenham",
+      "date_opened": "1930-05-05",
+      "suburb": "Glen Waverley",
       "status": "current",
       "notes": null
     },
+    {
+      "name": "Tecoma",
+      "lines": [
+        "Belgrave"
+      ],
+      "distance_from_southern_cross_km": 41.34,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1924-02-01",
+      "suburb": "Tecoma",
+      "status": "current",
+      "notes": "Originally NArrow Gauge"
+    },
+    {
+      "name": "Thomastown",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 19.14,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1889-12-23",
+      "suburb": "Thomastown",
+      "status": "current",
+      "notes": "Upgraded in 2011"
+    },
+    {
+      "name": "Thornbury",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 10.62,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1889-10-08",
+      "suburb": "Thornbury",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Toorak",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 7.91,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1879-05-07",
+      "suburb": "Armadale",
+      "status": "current",
+      "notes": null
+    },
+
+
+
+
+
+
     {
       "name": "Town Hall",
       "lines": [
@@ -2779,12 +3014,34 @@
       "status": "current",
       "notes": "Metro Tunnel station"
     },
-
-
-
-
-
-
+    {
+      "name": "Tooronga",
+      "lines": [
+        "Glen Waverley"
+      ],
+      "distance_from_southern_cross_km": 9.59,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1890-03-24",
+      "suburb": "Malvern",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Tottenham",
+      "lines": [
+        "Sunbury"
+      ],
+      "distance_from_southern_cross_km": 9.6,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1891-01-01",
+      "suburb": "Tottenham",
+      "status": "current",
+      "notes": null
+    },
     {
       "name": "Tyabb",
       "lines": [
