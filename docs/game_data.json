@@ -2251,9 +2251,6 @@
       "status": "current",
       "notes": "Formerly Tunstall; Rebuilt in 2010"
     },
-
-
-
     {
       "name": "Oak Park",
       "lines": [
@@ -2286,6 +2283,35 @@
       "notes": null
     },
     {
+      "name": "Officer",
+      "lines": [
+        "Pakenham"
+      ],
+      "distance_from_southern_cross_km": 51.45,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1881-08-04",
+      "suburb": "Officer",
+      "status": "current",
+      "notes": "Formerly Officer's Siding"
+    },
+    {
+      "name": "Ormond",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 15.02,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1881-12-19",
+      "suburb": "Ormond",
+      "status": "current",
+      "notes": "Formerly North Road, Rebuilt in 2016"
+    },
+    {
       "name": "Pakenham",
       "lines": [
         "Pakenham"
@@ -2299,11 +2325,25 @@
       "status": "current",
       "notes": null
     },
+        {
+      "name": "Parkdale",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 25.93,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1919-09-01",
+      "suburb": "Parkdale",
+      "status": "current",
+      "notes": "Rebuilt 2024"
+    },
     {
       "name": "Parkville",
       "lines": [
         "Cranbourne",
-        "Pakenham"
+        "Pakenham", "Sunbury"
       ],
       "distance_from_southern_cross_km": null,
       "zones": [
@@ -2320,14 +2360,11 @@
         "Alamein",
         "Belgrave",
         "Craigieburn",
-        "Cranbourne",
         "Frankston",
         "Glen Waverley",
         "Hurstbridge",
         "Lilydale",
         "Mernda",
-        "Pakenham",
-        "Sunbury",
         "Upfield"
       ],
       "distance_from_southern_cross_km": 1.8,
@@ -2353,6 +2390,54 @@
       "status": "current",
       "notes": null
     },
+    {
+      "name": "Patterson",
+      "lines": [
+        "Frankston"
+      ],
+      "distance_from_southern_cross_km": 17.39,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1961-05-28",
+      "suburb": "Bentleigh",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Prahran",
+      "lines": [
+        "Sandringham"
+      ],
+      "distance_from_southern_cross_km": 6.72,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1860-12-22",
+      "suburb": "Prahran",
+      "status": "current",
+      "notes": "Formerly Greville Street"
+    },
+    {
+      "name": "Preston",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 12.47,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1889-10-08",
+      "suburb": "Preston",
+      "status": "current",
+      "notes": "Formerly Preston - Murray Road; Rebuilt 2022"
+    },
+
+
+
+
+
     {
       "name": "Richmond",
       "lines": [
