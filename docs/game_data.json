@@ -2434,10 +2434,37 @@
       "notes": "Formerly Preston - Murray Road; Rebuilt 2022"
     },
 
+    {
+      "name": "Regent",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 13.61,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1889-10-08",
+      "suburb": "Reservoir",
+      "status": "current",
+      "notes": "Formerly Preston - Regent Street"
+    },
 
-
-
-
+    {
+      "name": "Reservoir",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 14.94,
+      "zones": [
+        "Zone 1",
+        "Zone 2"
+      ],
+      "date_opened": "1889-10-08",
+      "suburb": "Reservoir",
+      "status": "current",
+      "notes": "Formerly Preston - Reservoir; Rebuilt 2019"
+    },
     {
       "name": "Richmond",
       "lines": [
@@ -2479,6 +2506,64 @@
       "notes": "Major interchange"
     },
     {
+      "name": "Ringwood East",
+      "lines": [
+        "Lilydale"
+      ],
+      "distance_from_southern_cross_km": 27.76,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1925-05-18",
+      "suburb": "Ringwood East",
+      "status": "current",
+      "notes": null
+    },
+
+    {
+      "name": "Ripponlea",
+      "lines": [
+        "Sandringham"
+      ],
+      "distance_from_southern_cross_km": 9.83,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1912-05-01",
+      "suburb": "Ripponlea",
+      "status": "current",
+      "notes": null
+    },
+
+    {
+      "name": "Riversdale",
+      "lines": [
+        "Alamein"
+      ],
+      "distance_from_southern_cross_km": 11.73,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1890-05-30",
+      "suburb": "Camberwell",
+      "status": "current",
+      "notes": null
+    },
+    {
+      "name": "Rosanna",
+      "lines": [
+        "Hurstbridge"
+      ],
+      "distance_from_southern_cross_km": 15.78,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1927-10-01",
+      "suburb": "Rosanna",
+      "status": "current",
+      "notes": "Rebuilt in 2018"
+    },
+    {
       "name": "Roxburgh Park",
       "lines": [
         "Craigieburn"
@@ -2490,8 +2575,62 @@
       "date_opened": "2007-06-05",
       "suburb": "Roxburgh Park",
       "status": "current",
+      "notes": "Formerly Somerton"
+    },
+
+    {
+      "name": "Royal Park",
+      "lines": [
+        "Upfield"
+      ],
+      "distance_from_southern_cross_km": 5.46,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1884-09-09",
+      "suburb": "Parkville",
+      "status": "current",
       "notes": null
     },
+
+    {
+      "name": "Rushall",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 7.32,
+      "zones": [
+        "Zone 1"
+      ],
+      "date_opened": "1927-01-01",
+      "suburb": "Fitzroy North",
+      "status": "current",
+      "notes": null
+    },
+
+    {
+      "name": "Ruthven",
+      "lines": [
+        "Mernda"
+      ],
+      "distance_from_southern_cross_km": 15.95,
+      "zones": [
+        "Zone 2"
+      ],
+      "date_opened": "1963-08-05",
+      "suburb": "Reservoir",
+      "status": "current",
+      "notes": null
+    },
+
+
+
+
+
+
+
+
+
     {
       "name": "Sandringham",
       "lines": [
